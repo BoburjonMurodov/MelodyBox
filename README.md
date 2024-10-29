@@ -2,7 +2,7 @@
 
 **Melody Box** is a modern **music player app** designed to provide a seamless and delightful audio experience on Android. With an intuitive UI and smooth animations, the app makes it easy to manage and enjoy your favorite music.
 
-## 🎥 ** Video
+## 🎥 Video
 ![Home](./ezgif-5-75f4147c3a.gif)
 
 ## 📱 Screenshots 
