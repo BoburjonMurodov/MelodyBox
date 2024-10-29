@@ -7,13 +7,7 @@
 |--------------------------|--------------------------|--------------------------|
 | ![Home](./Screenshot_20241029_093925_MelodyBox.jpg) | ![Player](Screenshot_20241029_093929_MelodyBox.jpg) |![Notification](Screenshot_20241029_093935_MelodyBox.jpg) 
 
-🎥 **[Watch Demo Video](./IMG_9012.MP4)**  
-
-## 🎥 Demo Video
-<video width="600" controls>
-  <source src="https://github.com/BoburjonMurodov/MelodyBox/blob/main/IMG_9012.MP4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+🎥 **[Watch Demo Video](./ezgif-5-75f4147c3a.gif)**  
 
 ## 🛠️ Technologies Used  
 - **Jetpack Compose** – For building the UI  
