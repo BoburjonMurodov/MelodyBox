@@ -9,6 +9,12 @@
 
 🎥 **[Watch Demo Video](./IMG_9012.MP4)**  
 
+## 🎥 Demo Video
+<video width="600" controls>
+  <source src="https://github.com/BoburjonMurodov/MelodyBox/blob/main/IMG_9012.MP4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## 🛠️ Technologies Used  
 - **Jetpack Compose** – For building the UI  
 - **MVI (Model-View-Intent)** – For state management  
